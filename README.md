@@ -113,8 +113,6 @@
 
 - **My Role (React + Spring Boot REST API)**
 
-- **My Role (React + Spring Boot REST API)**
-
   #### 🔐 로그인 / 인증
   - **회원 로그인**: `users` 테이블 연동, Spring Security + JWT 기반 인증·인가 처리  
   - **Axios Interceptor**: 모든 API 요청 시 JWT 자동 첨부, 401 응답 시 재로그인 유도  
