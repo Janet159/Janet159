@@ -1,26 +1,14 @@
-## Hi there 👋
-
-<!--
-**Janet159/Janet159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 기존 헤더 부분 그대로 유지 -->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=200&width=1000&section=header&text=YE%20JI%27S%20HUB&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Creative%20Developer%20Journey&descAlignY=60&descAlign=50)
 
 
 <br>
-<div align='center'>🚀 학습 속도와 실행력을 무기로 성장하는 개발자, 장예지입니다!</div>
+<div align="center">
+  🚀 <span style="color:#FF6F61"><b>학습 속도</b></span>와  
+  <span style="color:#6A5ACD"><b>실행력</b></span>을 무기로 성장하는 개발자,<br/>
+  <b>장예지</b>입니다!
+</div>
+
+
 <br>
 <div align='center'> ✉ Email : <a href="mailto:janet15916@naver.com">janet15916@naver.com</a></div>
 <div align='center'> 🔗 Notion : <a href="https://www.notion.so/2656bc55e4d58006a413d4bd8aa49c44?source=copy_link">노션 포트폴리오</a></div>
